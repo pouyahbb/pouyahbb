@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate and experienced web developer with over 7 years of expertise in the field of<br>programming and web development. Specializing in MERN-STACK, with a strong focus on<br>Front-End development,<br>I possess extensive experience in Back-End technologies. Adept at building and maintaining responsive websites, user interfaces, and web <br>applications. Proven ability to collaborate with cross-functional teams to deliver high-quality<br>solutions. <br>Always eager to embrace new challenges and continuously enhance my skills<br>
+Passionate and experienced web developer with over 7 years of expertise in the field of<br>programming and web development. Specializing in MERN-STACK, with a strong focus on<br>Front-End development,I possess extensive experience in Back-End technologies. Adept at building and maintaining responsive websites, user interfaces, and web <br>applications. Proven ability to collaborate with cross-functional teams to deliver high-quality<br>solutions. <br>Always eager to embrace new challenges and continuously enhance my skills<br>
 
 
 ## 🌐 Socials:
